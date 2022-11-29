@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #gay_img{
+            width: 600px;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+<h1>Ata Anıl Bay</h1>
+<h3>Hakkında</h3>
+<p1>Merhaba,ben Ata Anıl Bay.Buda benim 2. patika.dev ödevim.html öğreniyorum.
+</p1>
+<h4>İlgi Alanlarım</h4>
+  <ul>
+    <li><strong>1.Diziler</strong>
+        <ul>
+            <li>Game Of Thrones</li>
+            <li>Regular Show</li>
+            <li>True Dedective</li>
+        </ul>
+    </li>
+    <li><strong>2.Filmler</strong>
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt0145487/">Spider Man</a></li>
+            <li>Gayder Man</li>
+            <li>Hetero Man</li>
+        </ul>
+    </li>
+    <li><strong>3.Kitaplar</strong>
+        <ul>
+            <li><a href="https://www.goodreads.com/book/show/7716140-married-with-zombies">Married with Zombies</a></li>
+            <li>Mobydick</li>
+            <li>Yaprak Dökümü</li>
+        </ul>
+    </li>
+  </ul>
+<h2>Sevdiğim Film</h2>
+<h3>Spider Man</h3> 
+<img id="gay_img" src="C:\Users\ATO\Desktop\ödev\örümcekadam.jpg" alt="YOU ARE GAY">
+<p>Spider Man filmini çok seviyorum.</p>
+</body>
+</html>
